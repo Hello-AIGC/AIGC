@@ -20,11 +20,17 @@ Hello-AIGC分享 AIGC 领域有趣、入门级的开源项目。每个工作日�
 ## 目录
 | 周一 | 周二 | 周三 | 周四 | 周五 |
 | ------- | ----- | ------------ | ------ | --------- |
-| [第20230605期(AI问答企业专刊)](content/HelloAIGC-20230605.md) | [第20230606期(AI问答企业专刊2)](content/HelloAIGC-20230606.md) |  |  |  |
+| [第20230605期(AI问答企业专刊)](content/HelloAIGC-20230605.md) | [第20230606期(AI问答企业专刊2)](content/HelloAIGC-20230606.md) | [第20230607期(企业专刊3)](content/HelloAIGC-20230607.md) | [第20230608期(创投热点)](content/HelloAIGC-20230608.md) |  |
 | [第20230529期](content/HelloAIGC-20230529.md) | [第20230530期（数字人专刊1）](content/HelloAIGC-20230530.md) | [第20230531期（数字人专刊2）](content/HelloAIGC-20230531.md) | [第20230601期](content/HelloAIGC-20230601.md) | [第20230602期](content/HelloAIGC-20230602.md) |
 | |  |  |  |  [第20230526期](content/HelloAIGC-20230526.md) |
 
 ## 内容摘要
+
+### [第20230608期(创投热点)](content/HelloAIGC-20230608.md)
+#### 近日一向安静的腾讯投资一周内三度在AIGC领域出手（MiniMax、光年之外、深言科技）、OneFlow、FOCO、右脑科技、句子互动、北京星鲸科技有限公司、招商银行调研组在百度
+
+### [第20230607期(AI问答企业专刊2)](content/HelloAIGC-20230606.md)
+#### 万兴科技、首都在线与燧原科技联合开发的AIGC模型、GPT-vup、Tezign、上海退格数字科技有限公司
 
 ### [第20230606期(AI问答企业专刊2)](content/HelloAIGC-20230606.md)
 #### 蓝色光标、拟仁智能、META SOTA、Tezign、上海退格数字科技有限公司
