@@ -7,6 +7,9 @@
 Hello-AIGC分享 AIGC 领域有趣、入门级的开源项目。每个工作日以日刊的形式更新发布，内容包括AIGC各类应用场景、基础AI模型等等，让你可以用最短的时间掌握AIGC领域最新动态！
 
 
+[![Link to a GIF picture](source/index1.gif)]()
+
+
 
 <p>
   <img src="https://foruda.gitee.com/images/1685413615304788816/81f3a841_6522093.png"/>
