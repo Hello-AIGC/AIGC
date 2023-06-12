@@ -22,6 +22,10 @@
 ##### Meta Platforms Inc（社交）
 ——>Meta发布了图像分割基础模型SAM并发布了论文《Segment Anything》。SAM在多任务上具备竞争力，且它的零样本性能让人印象深刻（https://baijiahao.baidu.com/s?id=1765566909748887740&wfr=spider&for=pc）
 ![](https://gitee.com/Hello-AIGC/Drawing-bed/raw/master/source/meta.png)
+<p>
+  <img src="https://foruda.gitee.com/images/1685410349936737076/524ad704_6522093.png"/>
+</p>
+
 
 
 

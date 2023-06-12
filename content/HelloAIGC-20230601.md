@@ -3,3 +3,7 @@
 ##### Real-Time-Person-Removal：在 Web 浏览器中实时移除人像。
 ##### nsfw-filter：基于 tensefow.js 实现的过滤 NSFW（裸露、暴力等）图片的浏览器插件
 ##### Real-ESRGAN：图像超分辨率模型
+
+<p>
+  <img src="https://foruda.gitee.com/images/1685410349936737076/524ad704_6522093.png"/>
+</p>
