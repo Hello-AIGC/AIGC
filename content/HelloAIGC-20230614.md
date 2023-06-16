@@ -24,5 +24,5 @@
 ——>前段时间，阿里巴巴在魔搭社区和 Hugging Face 低调开源了文生视频大模型，意外地受到国内外开发者的广泛关注，该模型生成的视频甚至得到马斯克本尊的回应，模型在魔搭社区上连续多天获得单日上万次国际访问量。（https://www.thepaper.cn/newsDetail_forward_23450770）
 ##### ·
 <p>
-  < img src="https://foruda.gitee.com/images/1685410349936737076/524ad704_6522093.png"/>
-</p >
+  <img src="https://foruda.gitee.com/images/1685410349936737076/524ad704_6522093.png"/>
+</p>
