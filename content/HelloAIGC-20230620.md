@@ -1,4 +1,4 @@
-#  Hello-AIGC资讯 | 第20230617期
+#  Hello-AIGC资讯 | 第20230620期
 ——> github：https://github.com/Hello-AIGC/Hello-AIGC
 
 ——> gitee：https://gitee.com/Hello-AIGC/Hello-AIGC
