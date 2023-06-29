@@ -16,7 +16,7 @@
 ##### Wireframe Designer（AI画原型图）
 ——>Twitter上一位新加坡的设计师Wu Chenmu利用周末时间开发了一个Figma插件 - Wireframe Designer，它使用ChatGPT3.5 API 生成线框图设计稿，该 Figma 插件名为 Wireframe Designer，它是一款用于快速生成网页和移动应用程序的线框图的工具。（https://www.bilibili.com/video/BV1TP411X7WQ/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=430f620ef1db7c8b2c697c32db32b9aa）
 ##### ·
-##### ,国家互联网信息办公室发布境内深度合成服务算法备案清单
+##### 国家互联网信息办公室发布境内深度合成服务算法备案清单
 ——>在清单公布的算法包括：美团在线智能客服算法、快手短视频生成合成算法、百度文生图内容生成算法、百度PLATO大模型算法、天猫小蜜智能客服算法、菜鸟物流智能客服算法、讯飞星火认知大模型算法、腾讯云语音合成算法等（http://www.cac.gov.cn/2023-06/20/c_1688910683316256.htm）
 ##### ·
 ##### OpenLLaMA（小彩蛋：感谢匿名同学友情提供）
@@ -26,5 +26,5 @@
 ——>尽管训练大模型以达到预期性能水平可能比较便宜，但训练一个更小、训练耗时更长的模型最终会使推理过程更便宜（https://zhuanlan.zhihu.com/p/631085425）
 ##### ·
 <p>
-  < img src="https://foruda.gitee.com/images/1685410349936737076/524ad704_6522093.png"/>
-</p >
+  <img src="https://foruda.gitee.com/images/1685410349936737076/524ad704_6522093.png"/>
+</p>
