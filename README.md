@@ -15,7 +15,7 @@ Hello-AIGC分享 AIGC 领域有趣的项目。为您持续深度搜集这个千�
   <img src="https://foruda.gitee.com/images/1685413615304788816/81f3a841_6522093.png"/>
 </p>
 
-## Hello-AIGC的小帮手
+## Hello-AIGC的投研小帮手
 这是一个AIGC垂直领域的GPT问答机器人。我们还会在稍后的时间中开放API接口
 <p>
   <img src="https://foruda.gitee.com/images/1687997567960962474/aef04a89_6522093.jpeg"/>
