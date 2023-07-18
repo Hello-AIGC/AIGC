@@ -16,11 +16,12 @@ Hello-AIGC is a comprehensive resource for the latest news, trends, and insights
   <img src="https://foruda.gitee.com/images/1685413615304788816/81f3a841_6522093.png"/>
 </p>
 
-## Hello-AIGC's information search engine
-To view the content, please scan the QR code below and ask the robot. This is a GPT question-and-answer robot in the vertical field of AIGC. We will also open API interfaces at a later time.
+## Quick Start
 <p>
   <img src="https://foruda.gitee.com/images/1687997567960962474/aef04a89_6522093.jpeg"/>
 </p>
+To view the content, please scan the QR code below and ask the robot. This is a GPT question-and-answer robot in the vertical field of AIGC. We will also open API interfaces at a later time.
+
 
 
 [comment]: <> (## 目录)
