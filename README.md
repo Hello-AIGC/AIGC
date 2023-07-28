@@ -9,17 +9,18 @@ Hello-AIGC is a comprehensive resource for the latest news, trends, and insights
 
 
 [comment]: <> ([![Link to a GIF picture]&#40;source/index1.gif&#41;]&#40;&#41;)
+![](81f3a841_6522093.png)
 
 
+[comment]: <> (<p>)
 
-<p>
-  <img src="https://foruda.gitee.com/images/1685413615304788816/81f3a841_6522093.png"/>
-</p>
+[comment]: <> (  <img src="https://foruda.gitee.com/images/1685413615304788816/81f3a841_6522093.png"/>)
+
+[comment]: <> (</p>)
 
 ## Quick Start
-<p>
-  <img src="https://foruda.gitee.com/images/1687997567960962474/aef04a89_6522093.jpeg"/>
-</p>
+![](aef04a89_6522093.jpeg)
+
 To view the content, please scan the QR code below and ask the robot. This is a GPT question-and-answer robot in the vertical field of AIGC. We will also open API interfaces at a later time.
 
 
@@ -43,9 +44,11 @@ To view the content, please scan the QR code below and ask the robot. This is a 
 [comment]: <> (| |  |  |  |  [第20230526期]&#40;content/HelloAIGC-20230526.md&#41; |)
 
 
+![](524ad704_6522093.png)
 
-<p>
 
-  <img src="https://foruda.gitee.com/images/1685410349936737076/524ad704_6522093.png"/>
+[comment]: <> (<p>)
 
-</p>
+[comment]: <> (  <img src="https://foruda.gitee.com/images/1685410349936737076/524ad704_6522093.png"/>)
+
+[comment]: <> (</p>)
