@@ -47,6 +47,10 @@ This is also a solution to the practical implementation of large language models
 
 [comment]: <> (| |  |  |  |  [第20230526期]&#40;content/HelloAIGC-20230526.md&#41; |)
 
+## Alternate Link
+
+https://gitee.com/Hello-AIGC/Hello-AIGC
+
 
 ![](524ad704_6522093.png)
 
