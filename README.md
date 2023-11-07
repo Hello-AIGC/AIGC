@@ -23,7 +23,11 @@ Hello-AIGC is a comprehensive resource for the latest news, trends, and insights
 
 To view the content, please scan the QR code below and ask the robot. This is a GPT question-and-answer robot in the vertical field of AIGC. We will also open API interfaces at a later time.
 
+## Large language model operation platform
 
+
+
+This is also a solution to the practical implementation of large language models, which constructs a multi-level governance model to handle various possible results provided by the Q&A model, providing users with extraordinary and real large-scale promotion of large language model effects
 
 [comment]: <> (## 目录)
 
